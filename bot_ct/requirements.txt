@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+python-telegram-bot
+requests
+SQLAlchemy
+Flask-SQLAlchemy
+bs4
